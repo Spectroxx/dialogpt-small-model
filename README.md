@@ -1,4 +1,1 @@
----
-tags:
-- conversational
----
+dialogpt-small-model
